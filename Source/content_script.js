@@ -37,9 +37,9 @@ function handleText(textNode)
 	var v = textNode.nodeValue;
 
 	v = v.replace(/\bBlockchain\b/g, "My Butt");
-	v = v.replace(/\bBlockchain\b/g, "My butt");
-	v = v.replace(/\bBlockchain\b/g, "my Butt");
-	v = v.replace(/\bBlockchain\b/g, "my butt");
+	v = v.replace(/\bblockchain\b/g, "My butt");
+	v = v.replace(/\bthe Blockchain\b/g, "my Butt");
+	v = v.replace(/\bthe blockchain\b/g, "my butt");
 	
 	textNode.nodeValue = v;
 }
