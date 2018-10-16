@@ -14,20 +14,4 @@ polarizing issue in the blockchain-to-butt user community.  Forks are free to do
 Installation
 ------------
 
-In Chrome, choose Window > Extensions.  Drag CloudToButt.crx into the page that appears.
-
-Safari Version
---------------
-
-Can be found here: https://github.com/logancollins/cloud-to-butt-safari
-
-Firefox Version
----------------
-
-Can be found here: https://github.com/DaveRandom/cloud-to-butt-mozilla
-
-
-Opera Version
----------------
-
-Can be found here: https://github.com/DaveRandom/cloud-to-butt-opera
+In Chrome, choose Window > Extensions.  Drag BlockchainToButt.crx into the page that appears.
