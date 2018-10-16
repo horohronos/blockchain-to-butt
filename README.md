@@ -5,7 +5,7 @@ blockchain-to-butt
 
 Chrome extension that replaces occurrences of 'blockchain' with 'my butt'
 
-[Direct download of crx file](https://github.com/horohronos/blockchain-to-butt/blob/master/CloudToButt.crx?raw=true)
+[Direct download of crx file](https://github.com/horohronos/blockchain-to-butt/blob/master/BlockchainToButt.crx?raw=true)
 
 
 Installation
